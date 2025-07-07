@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 语雀-Hexo
+title: 语雀
 subtitle: '语雀 + Elog + Hexo + GitHub Actions + Vercel 博客解决方案'
 description: '语雀 + Elog + Hexo + GitHub Actions + Vercel 博客解决方案'
 keywords:
-author: 1874
+author: cx
 language: zh-CN
 timezone: Asia/Shanghai
 
