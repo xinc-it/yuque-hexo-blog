@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 语雀
-subtitle: '语雀 + Elog + Hexo + GitHub Actions + Vercel 博客解决方案'
-description: '语雀 + Elog + Hexo + GitHub Actions + Vercel 博客解决方案'
+title: 无心部落阁
+subtitle: '无心部落阁'
+description: '无心部落阁'
 keywords:
 author: cx
 language: zh-CN
@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://yuque-hexo.vercel.app
+url: https://wuxin.website
 permalink: :title/
 permalink_defaults:
 pretty_urls:
